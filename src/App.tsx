@@ -291,11 +291,11 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 text-indigo-600" />
-                  <span className="ml-4 text-gray-600">+1 234 567 890</span>
+                  <span className="ml-4 text-gray-600">+1 438 779 0402</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 text-indigo-600" />
-                  <span className="ml-4 text-gray-600">123 Rue Principale, Ville, Pays</span>
+                  <span className="ml-4 text-gray-600">130 -1200 Blvd. Saint-Martin O, Laval, QC  H7S 2E4 </span>
                 </div>
               </div>
             </div>
